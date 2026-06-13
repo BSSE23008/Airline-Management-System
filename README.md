@@ -298,23 +298,15 @@ Records/
 
 ### Prerequisites Setup
 
-Ensure you have a C++ compiler installed:
-
-```bash
-# For Linux (Ubuntu/Debian)
-sudo apt-get install build-essential g++ make
-
-# For macOS
-xcode-select --install
-
-# For Windows (using WSL)
-sudo apt-get install build-essential g++ make
+```
+Ensure you have cygwin instelled and g++ compiler available in your terminal. You can check this by running:
 ```
 
-### Compilation & Execution
+```bash
+g++ --version
+```
 
-#### 1. **Standard Run** (Full System)
-Compiles all modules including airplane components and cargo services:
+### Build & Run Commands
 
 ```bash
 make run
@@ -566,7 +558,6 @@ All data is automatically saved to JSON files in their respective directories:
 - The system uses **JSON** for all data persistence
 - All compiled executables are named `r.out` (production) or `a.out` (test)
 - The project follows **C++17** standards
-- All paths in Account.h should be updated to your local system path
 - The system is designed for educational purposes demonstrating OOP principles
 
 ---
@@ -595,9 +586,6 @@ make run
 sudo apt-get install g++
 ```
 
-### File Path Errors
-- Update file paths in `Accounts/Account.h` to match your system
-- Ensure JSON files exist in their respective directories
 
 ### Permission Errors
 ```bash

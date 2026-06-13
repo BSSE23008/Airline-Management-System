@@ -1,0 +1,42 @@
+{
+    "Pilot": [
+        {
+            "account": {
+                "accountNo": "XYZ-123",
+                "balance": 100000.0
+            },
+            "department": "FightDepartment",
+            "designation": "Captain",
+            "experience": 10.0,
+            "firstName": "Neil",
+            "id": "PSO-101",
+            "lastName": "Bohr",
+            "pass": "Neil123",
+            "salary": {
+                "allowances": 15000.0,
+                "basicSalary": 200000.0,
+                "deductions": 0.0,
+                "hourlySalary": 700.0
+            }
+        },
+        {
+            "account": {
+                "accountNo": "PQR-123",
+                "balance": 23000.0
+            },
+            "department": "FlightDepartment",
+            "designation": "Captain",
+            "experience": 15.0,
+            "firstName": "Ahmad",
+            "id": "auk123",
+            "lastName": "Khan",
+            "pass": "auk123",
+            "salary": {
+                "allowances": 9000.0,
+                "basicSalary": 450000.0,
+                "deductions": 0.0,
+                "hourlySalary": 1000.0
+            }
+        }
+    ]
+}

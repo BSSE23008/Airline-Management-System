@@ -1,0 +1,14 @@
+[
+  {
+    "CNIC": "100200300",
+    "customerId": "samerxyz",
+    "departure": "lahore",
+    "departureTime": 1713976417,
+    "destination": "quetta",
+    "destinationTime": 1713990817,
+    "flightNumber": "777",
+    "passengerAge": "8",
+    "passengerName": "samer",
+    "seatNumber": "A0"
+  }
+]

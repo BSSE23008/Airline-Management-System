@@ -1,0 +1,10 @@
+{
+    "Customers": [
+        {
+            "firstName": "samer123",
+            "id": "samerxyz",
+            "lastName": "radoz123",
+            "pass": "p@ssw0rd"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "crews": [
+        {
+            "coPilotID": "123123123",
+            "crewNumber": 1,
+            "flightAttendants": [
+                {
+                    "flightAttendantID": "3333"
+                }
+            ],
+            "flightAttendantsIndex": 1,
+            "flightNumber": "NULL",
+            "medics": [
+                {
+                    "medicID": "3"
+                }
+            ],
+            "medicsIndex": 1,
+            "pilotID": "PSO-101",
+            "purserID": "33"
+        }
+    ],
+    "incrementCrewNumber": 1,
+    "totalNoOfCrews": 1
+}
